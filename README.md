@@ -158,4 +158,4 @@ pnr_status
 
 ## Copyright
 
-All Rights Reserved. &copy; Vaddiraju Surya Teja, 2024
+All Rights Reserved. &copy; Sriramula Harish, 2024
